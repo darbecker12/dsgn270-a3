@@ -1,0 +1,47 @@
+
+body{
+ text-align:center;
+ background: lightcyan;
+ text-decoration: blue;
+}
+
+svg, img{
+  width:50%;
+  border:1px solid black;
+  padding: 10px;
+}
+
+.triangle{
+  stroke:orange;
+  stroke-width:2px;
+}
+
+.text-w{
+  fill:red;
+  stroke: black;
+}
+
+.wing{
+  stroke-width:2px;
+  fill:red;
+  stroke:orange;
+  stroke-miterlimit:10"
+}
+
+.flame{
+  fill:orange;
+}
+
+svg:hover, img:hover{
+  background:lightsalmon;
+  box-shadow: 5px 5px;
+
+}
+
+
+
+
+
+
+
+
